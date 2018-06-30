@@ -1,0 +1,23 @@
+{
+  "name": "backbone-live",
+  "description": "Backbone Live",
+  "version": "0.1.0",
+  "homepage": "https://github.com/raicheff/backbone-live",
+  "author": {
+    "name": "Boris Raicheff",
+    "email": "b@raicheff.com",
+    "url": "https://raicheff.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/raicheff/backbone-live.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raicheff/backbone-live/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "main": "backbone-live.js"
+}
